@@ -1,0 +1,14 @@
+.single-gif-container {
+    margin-bottom: 10px;
+    width: 22%;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid rgb(218, 213, 213);
+    border-radius: 10px;
+    background-color: rgb(243, 242, 242);
+}
+
+img {
+    width: 100%;
+    height: 200px;
+}
